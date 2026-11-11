@@ -1,0 +1,19 @@
+{
+  "name": "pick-and-go-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "start": "json-server products.json --host 0.0.0.0 --port 10000 --static ."
+},
+"Dependencies": {
+  "json-server":"^0.17.0"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.15"
+  }
+}

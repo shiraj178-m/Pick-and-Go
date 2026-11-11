@@ -1,0 +1,804 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Nike Air Max Shoes",
+      "brand": "Nike",
+      "category": "Shoes",
+      "price": 4999,
+      "photo": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Adidas Ultraboost Running Shoes",
+      "brand": "Adidas",
+      "category": "Shoes",
+      "price": 5999,
+      "photo": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Puma Suede Sneakers",
+      "brand": "Puma",
+      "category": "Shoes",
+      "price": 3499,
+      "photo": "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 4,
+      "name": "Reebok Classic Leather Shoes",
+      "brand": "Reebok",
+      "category": "Shoes",
+      "price": 2999,
+      "photo": "https://images.unsplash.com/photo-1495555961986-6d4c1ecb7be3?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 5,
+      "name": "Skechers Go Walk Shoes",
+      "brand": "Skechers",
+      "category": "Shoes",
+      "price": 3999,
+      "photo": "https://images.unsplash.com/photo-1460353581641-37baddab0fa2?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 6,
+      "name": "Campus Running Shoes",
+      "brand": "Campus",
+      "category": "Shoes",
+      "price": 1499,
+      "photo": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 7,
+      "name": "Bata Formal Shoes",
+      "brand": "Bata",
+      "category": "Shoes",
+      "price": 1799,
+      "photo": "https://images.unsplash.com/photo-1614252369475-531eba835eb1?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 8,
+      "name": "Woodland Leather Shoes",
+      "brand": "Woodland",
+      "category": "Shoes",
+      "price": 3299,
+      "photo": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 9,
+      "name": "Nike Air Force 1",
+      "brand": "Nike",
+      "category": "Shoes",
+      "price": 7499,
+      "photo": "https://images.unsplash.com/photo-1600185365926-3a2ce3cdb9eb?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 10,
+      "name": "Adidas Samba Sneakers",
+      "brand": "Adidas",
+      "category": "Shoes",
+      "price": 8999,
+      "photo": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 11,
+      "name": "Puma Running Shoes",
+      "brand": "Puma",
+      "category": "Shoes",
+      "price": 2799,
+      "photo": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 12,
+      "name": "New Balance 574",
+      "brand": "New Balance",
+      "category": "Shoes",
+      "price": 6499,
+      "photo": "https://images.unsplash.com/photo-1495555961986-6d4c1ecb7be3?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 13,
+      "name": "ASICS Gel Running Shoes",
+      "brand": "ASICS",
+      "category": "Shoes",
+      "price": 6999,
+      "photo": "https://images.unsplash.com/photo-1460353581641-37baddab0fa2?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 14,
+      "name": "Converse Chuck Taylor",
+      "brand": "Converse",
+      "category": "Shoes",
+      "price": 3999,
+      "photo": "https://images.unsplash.com/photo-1495555961986-6d4c1ecb7be3?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 15,
+      "name": "Vans Old Skool Shoes",
+      "brand": "Vans",
+      "category": "Shoes",
+      "price": 4599,
+      "photo": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 16,
+      "name": "Crocs Classic Clogs",
+      "brand": "Crocs",
+      "category": "Shoes",
+      "price": 3995,
+      "photo": "https://images.unsplash.com/photo-1514989940723-e8e51635b782?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 17,
+      "name": "Red Tape Casual Sneakers",
+      "brand": "Red Tape",
+      "category": "Shoes",
+      "price": 2199,
+      "photo": "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 18,
+      "name": "Fila Disruptor Shoes",
+      "brand": "Fila",
+      "category": "Shoes",
+      "price": 4999,
+      "photo": "https://images.unsplash.com/photo-1600185365926-3a2ce3cdb9eb?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 19,
+      "name": "Sparx Sports Shoes",
+      "brand": "Sparx",
+      "category": "Shoes",
+      "price": 999,
+      "photo": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 20,
+      "name": "Liberty Walking Shoes",
+      "brand": "Liberty",
+      "category": "Shoes",
+      "price": 1299,
+      "photo": "https://images.unsplash.com/photo-1460353581641-37baddab0fa2?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 21,
+      "name": "iPhone 16",
+      "brand": "Apple",
+      "category": "Mobiles",
+      "price": 69999,
+      "photo": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 22,
+      "name": "iPhone 16 Pro",
+      "brand": "Apple",
+      "category": "Mobiles",
+      "price": 119999,
+      "photo": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 23,
+      "name": "Samsung Galaxy S25",
+      "brand": "Samsung",
+      "category": "Mobiles",
+      "price": 74999,
+      "photo": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 24,
+      "name": "Samsung Galaxy A56",
+      "brand": "Samsung",
+      "category": "Mobiles",
+      "price": 38999,
+      "photo": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 25,
+      "name": "Redmi Note 14",
+      "brand": "Redmi",
+      "category": "Mobiles",
+      "price": 17999,
+      "photo": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 26,
+      "name": "OnePlus 13",
+      "brand": "OnePlus",
+      "category": "Mobiles",
+      "price": 69999,
+      "photo": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 27,
+      "name": "OnePlus Nord",
+      "brand": "OnePlus",
+      "category": "Mobiles",
+      "price": 27999,
+      "photo": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 28,
+      "name": "Google Pixel 9",
+      "brand": "Google",
+      "category": "Mobiles",
+      "price": 79999,
+      "photo": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 29,
+      "name": "Vivo V50",
+      "brand": "Vivo",
+      "category": "Mobiles",
+      "price": 34999,
+      "photo": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 30,
+      "name": "Oppo Reno Series",
+      "brand": "Oppo",
+      "category": "Mobiles",
+      "price": 32999,
+      "photo": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 31,
+      "name": "Realme 14 Pro",
+      "brand": "Realme",
+      "category": "Mobiles",
+      "price": 24999,
+      "photo": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 32,
+      "name": "Motorola Edge",
+      "brand": "Motorola",
+      "category": "Mobiles",
+      "price": 27999,
+      "photo": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 33,
+      "name": "Nothing Phone",
+      "brand": "Nothing",
+      "category": "Mobiles",
+      "price": 32999,
+      "photo": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 34,
+      "name": "Poco X Series",
+      "brand": "Poco",
+      "category": "Mobiles",
+      "price": 22999,
+      "photo": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 35,
+      "name": "Infinix Note",
+      "brand": "Infinix",
+      "category": "Mobiles",
+      "price": 15999,
+      "photo": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 36,
+      "name": "Kanchipuram Silk Saree",
+      "brand": "Pothys",
+      "category": "Sarees",
+      "price": 8999,
+      "photo": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 37,
+      "name": "Cotton Saree",
+      "brand": "Nalli",
+      "category": "Sarees",
+      "price": 1499,
+      "photo": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 38,
+      "name": "Banarasi Silk Saree",
+      "brand": "Traditional",
+      "category": "Sarees",
+      "price": 4999,
+      "photo": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 39,
+      "name": "Georgette Party Saree",
+      "brand": "Biba",
+      "category": "Sarees",
+      "price": 1999,
+      "photo": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 40,
+      "name": "Floral Printed Saree",
+      "brand": "Ahalyaa",
+      "category": "Sarees",
+      "price": 1299,
+      "photo": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 41,
+      "name": "Mysore Silk Saree",
+      "brand": "Nalli",
+      "category": "Sarees",
+      "price": 5999,
+      "photo": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 42,
+      "name": "Soft Silk Saree",
+      "brand": "Pothys",
+      "category": "Sarees",
+      "price": 4499,
+      "photo": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 43,
+      "name": "Organza Saree",
+      "brand": "Pothys",
+      "category": "Sarees",
+      "price": 3999,
+      "photo": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 44,
+      "name": "Linen Saree",
+      "brand": "Nalli",
+      "category": "Sarees",
+      "price": 2499,
+      "photo": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 45,
+      "name": "Wedding Silk Saree",
+      "brand": "Traditional",
+      "category": "Sarees",
+      "price": 12999,
+      "photo": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 46,
+      "name": "Temple Border Saree",
+      "brand": "Nalli",
+      "category": "Sarees",
+      "price": 6999,
+      "photo": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 47,
+      "name": "Chiffon Saree",
+      "brand": "Biba",
+      "category": "Sarees",
+      "price": 2299,
+      "photo": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 48,
+      "name": "Embroidered Saree",
+      "brand": "W",
+      "category": "Sarees",
+      "price": 3299,
+      "photo": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 49,
+      "name": "Daily Wear Saree",
+      "brand": "Pothys",
+      "category": "Sarees",
+      "price": 999,
+      "photo": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 50,
+      "name": "Designer Party Saree",
+      "brand": "Ahalyaa",
+      "category": "Sarees",
+      "price": 3499,
+      "photo": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 51,
+      "name": "Levi's Blue Jeans",
+      "brand": "Levi's",
+      "category": "Clothing",
+      "price": 2499,
+      "photo": "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 52,
+      "name": "Nike Cotton T-Shirt",
+      "brand": "Nike",
+      "category": "Clothing",
+      "price": 1499,
+      "photo": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 53,
+      "name": "Adidas Hoodie",
+      "brand": "Adidas",
+      "category": "Clothing",
+      "price": 2999,
+      "photo": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 54,
+      "name": "Puma Sports T-Shirt",
+      "brand": "Puma",
+      "category": "Clothing",
+      "price": 999,
+      "photo": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 55,
+      "name": "Allen Solly Formal Shirt",
+      "brand": "Allen Solly",
+      "category": "Clothing",
+      "price": 1799,
+      "photo": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 56,
+      "name": "Zara Casual Shirt",
+      "brand": "Zara",
+      "category": "Clothing",
+      "price": 2299,
+      "photo": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 57,
+      "name": "H&M Oversized T-Shirt",
+      "brand": "H&M",
+      "category": "Clothing",
+      "price": 799,
+      "photo": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 58,
+      "name": "Van Heusen Formal Trousers",
+      "brand": "Van Heusen",
+      "category": "Clothing",
+      "price": 1999,
+      "photo": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 59,
+      "name": "Roadster Cargo Pants",
+      "brand": "Roadster",
+      "category": "Clothing",
+      "price": 1599,
+      "photo": "https://images.unsplash.com/photo-1517438476312-10d79c077509?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 60,
+      "name": "Levi's Denim Jacket",
+      "brand": "Levi's",
+      "category": "Clothing",
+      "price": 3999,
+      "photo": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 61,
+      "name": "Biba Kurti",
+      "brand": "Biba",
+      "category": "Clothing",
+      "price": 1799,
+      "photo": "https://images.unsplash.com/photo-1581044777550-4cfa60707c03?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 62,
+      "name": "W Printed Dress",
+      "brand": "W",
+      "category": "Clothing",
+      "price": 2499,
+      "photo": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 63,
+      "name": "Peter England Formal Shirt",
+      "brand": "Peter England",
+      "category": "Clothing",
+      "price": 1499,
+      "photo": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 64,
+      "name": "US Polo Casual Shirt",
+      "brand": "US Polo",
+      "category": "Clothing",
+      "price": 2199,
+      "photo": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 65,
+      "name": "Jockey Cotton T-Shirt",
+      "brand": "Jockey",
+      "category": "Clothing",
+      "price": 599,
+      "photo": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 66,
+      "name": "Sony Wireless Headphones",
+      "brand": "Sony",
+      "category": "Electronics",
+      "price": 7999,
+      "photo": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 67,
+      "name": "boAt Airdopes",
+      "brand": "boAt",
+      "category": "Electronics",
+      "price": 1499,
+      "photo": "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 68,
+      "name": "JBL Bluetooth Speaker",
+      "brand": "JBL",
+      "category": "Electronics",
+      "price": 2999,
+      "photo": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 69,
+      "name": "Apple Watch SE",
+      "brand": "Apple",
+      "category": "Electronics",
+      "price": 24999,
+      "photo": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 70,
+      "name": "Samsung 4K Smart TV",
+      "brand": "Samsung",
+      "category": "Electronics",
+      "price": 39999,
+      "photo": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 71,
+      "name": "Canon EOS Camera",
+      "brand": "Canon",
+      "category": "Electronics",
+      "price": 45999,
+      "photo": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 72,
+      "name": "Logitech Wireless Mouse",
+      "brand": "Logitech",
+      "category": "Electronics",
+      "price": 999,
+      "photo": "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 73,
+      "name": "Mechanical Keyboard",
+      "brand": "Keychron",
+      "category": "Electronics",
+      "price": 4999,
+      "photo": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 74,
+      "name": "LG Monitor",
+      "brand": "LG",
+      "category": "Electronics",
+      "price": 14999,
+      "photo": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 75,
+      "name": "SanDisk Pen Drive 128GB",
+      "brand": "SanDisk",
+      "category": "Electronics",
+      "price": 899,
+      "photo": "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 76,
+      "name": "Apple AirPods",
+      "brand": "Apple",
+      "category": "Electronics",
+      "price": 12999,
+      "photo": "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 77,
+      "name": "Samsung Galaxy Buds",
+      "brand": "Samsung",
+      "category": "Electronics",
+      "price": 9999,
+      "photo": "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 78,
+      "name": "Mi Smart Band",
+      "brand": "Xiaomi",
+      "category": "Electronics",
+      "price": 2499,
+      "photo": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 79,
+      "name": "Fitbit Smartwatch",
+      "brand": "Fitbit",
+      "category": "Electronics",
+      "price": 9999,
+      "photo": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 80,
+      "name": "Portable Power Bank",
+      "brand": "Anker",
+      "category": "Electronics",
+      "price": 1999,
+      "photo": "https://images.unsplash.com/photo-1609592806596-b43badaf4c7b?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 81,
+      "name": "HP Pavilion Laptop",
+      "brand": "HP",
+      "category": "Laptops",
+      "price": 62999,
+      "photo": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 82,
+      "name": "Dell Inspiron Laptop",
+      "brand": "Dell",
+      "category": "Laptops",
+      "price": 57999,
+      "photo": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 83,
+      "name": "MacBook Air",
+      "brand": "Apple",
+      "category": "Laptops",
+      "price": 99999,
+      "photo": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 84,
+      "name": "Lenovo IdeaPad",
+      "brand": "Lenovo",
+      "category": "Laptops",
+      "price": 48999,
+      "photo": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 85,
+      "name": "ASUS VivoBook",
+      "brand": "ASUS",
+      "category": "Laptops",
+      "price": 52999,
+      "photo": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 86,
+      "name": "HP Pavilion Gaming Laptop",
+      "brand": "HP",
+      "category": "Laptops",
+      "price": 79999,
+      "photo": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 87,
+      "name": "Dell XPS Laptop",
+      "brand": "Dell",
+      "category": "Laptops",
+      "price": 119999,
+      "photo": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 88,
+      "name": "MacBook Pro",
+      "brand": "Apple",
+      "category": "Laptops",
+      "price": 169999,
+      "photo": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 89,
+      "name": "ASUS ROG Gaming Laptop",
+      "brand": "ASUS",
+      "category": "Laptops",
+      "price": 149999,
+      "photo": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 90,
+      "name": "Acer Aspire Laptop",
+      "brand": "Acer",
+      "category": "Laptops",
+      "price": 45999,
+      "photo": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 91,
+      "name": "Skybags Backpack",
+      "brand": "Skybags",
+      "category": "Accessories",
+      "price": 1499,
+      "photo": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 92,
+      "name": "Women's Handbag",
+      "brand": "Fashion",
+      "category": "Accessories",
+      "price": 1999,
+      "photo": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 93,
+      "name": "Ray-Ban Sunglasses",
+      "brand": "Ray-Ban",
+      "category": "Accessories",
+      "price": 2499,
+      "photo": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 94,
+      "name": "Fossil Wrist Watch",
+      "brand": "Fossil",
+      "category": "Accessories",
+      "price": 4999,
+      "photo": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 95,
+      "name": "Leather Wallet",
+      "brand": "Wildhorn",
+      "category": "Accessories",
+      "price": 799,
+      "photo": "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 96,
+      "name": "Gold-Tone Necklace",
+      "brand": "Fashion",
+      "category": "Accessories",
+      "price": 1299,
+      "photo": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 97,
+      "name": "Classic Earrings",
+      "brand": "Fashion",
+      "category": "Accessories",
+      "price": 599,
+      "photo": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 98,
+      "name": "Bangle Set",
+      "brand": "Fashion",
+      "category": "Accessories",
+      "price": 499,
+      "photo": "https://images.unsplash.com/photo-1611652022419-a9419f74343d?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 99,
+      "name": "Travel Duffel Bag",
+      "brand": "American Tourister",
+      "category": "Accessories",
+      "price": 2299,
+      "photo": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 100,
+      "name": "Leather Belt",
+      "brand": "Woodland",
+      "category": "Accessories",
+      "price": 899,
+      "photo": "https://images.unsplash.com/photo-1624222247344-550fb8f1c0a5?auto=format&fit=crop&w=600&q=80"
+    }
+  ]
+}
